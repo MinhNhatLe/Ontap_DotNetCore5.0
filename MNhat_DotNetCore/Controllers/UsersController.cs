@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using MNhat_DotNetCore.Model.Entities;
+using MNhat_DotNetCore.Models.Entities;
 
 namespace MNhat_DotNetCore.Controllers
 {

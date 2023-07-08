@@ -9,7 +9,6 @@ C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\bin\Debug\net5.0\re
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\bin\Debug\net5.0\MNhat_DotNetCore.pdb
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\bin\Debug\net5.0\MNhat_DotNetCore.Views.dll
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\bin\Debug\net5.0\MNhat_DotNetCore.Views.pdb
-C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\obj\Debug\net5.0\MNhat_DotNetCore.csproj.AssemblyReference.cache
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\obj\Debug\net5.0\MNhat_DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\obj\Debug\net5.0\MNhat_DotNetCore.AssemblyInfoInputs.cache
 C:\Users\Minh Nhat\Desktop\MNhat_DotNetCore\MNhat_DotNetCore\obj\Debug\net5.0\MNhat_DotNetCore.AssemblyInfo.cs

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace MNhat_DotNetCore.Model.Entities
+namespace MNhat_DotNetCore.Models.Entities
 {
     public partial class MNDotNetCoreTest_DBContext : DbContext
     {
